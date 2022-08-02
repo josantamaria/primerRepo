@@ -7,3 +7,5 @@ Johan Santamaría es un chico al que le gusta programar
 Hola, esta es una nueva historia
 
 este es el tercer cambio que estoy añadiendo
+
+profesión: ingeniero electrónico
